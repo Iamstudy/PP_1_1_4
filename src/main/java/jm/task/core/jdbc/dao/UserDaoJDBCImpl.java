@@ -4,7 +4,6 @@ import jm.task.core.jdbc.util.Util;
 
 
 import java.sql.*;
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
